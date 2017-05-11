@@ -1,5 +1,5 @@
 # Statistical Analysis with R Commander
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Statistical Analysis with R Commander](https://www.tertiarycourses.com.sg/statistical-analysis-with-r-commander.html) course. 
 
